@@ -12,12 +12,12 @@ body, h1, h2, p {
 }
 
 /* Style the header */
-header {
+/*header {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 1rem 5;
-}
+} */
 
 /* Style navigation links */
 nav ul {
